@@ -3,3 +3,4 @@ _build
 _build-js
 *.map
 *.log
+.DS_Store
